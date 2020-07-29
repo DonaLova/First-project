@@ -13,3 +13,7 @@ img {
 h2 {
     text-transform: uppercase;
 }
+
+background image: url();
+background-siez: cover;
+/*contain obrázek roztáhne a překryje co největší možnou plochu*/
