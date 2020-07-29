@@ -1,7 +1,9 @@
 body {
     text-align: center;
+    text-shadow: grey;
 }
 
 img {
-    border: 1pt solid red;
+    border: 1pt solid black;
+    ;
 }
