@@ -1,9 +1,15 @@
 body {
     text-align: center;
     text-shadow: grey;
+    background-color: khaki;
 }
 
 img {
     border: 1pt solid black;
+    margin-top: 20pt
     ;
+}
+
+h2 {
+    text-transform: uppercase;
 }
